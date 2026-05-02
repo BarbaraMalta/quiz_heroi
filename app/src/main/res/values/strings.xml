@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Qual heroi vc eh</string>
+    <string name="resultado">Seu herói é: %1$s</string>
+</resources>
